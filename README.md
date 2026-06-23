@@ -12,7 +12,8 @@ Progress indication
 Simple and easy to use
 
 🚀 Installation
-Bashgit clone https://github.com/yourusername/zip_cracker.git
+'''bash
+clone https://github.com/yourusername/zip_cracker.git
 cd zip_cracker
 pip install colorama
 python zip_cracker.py
