@@ -13,14 +13,12 @@ A lightweight, fast, and colorful Python tool to crack password-protected ZIP fi
 - Progress indication
 - Simple and easy to use
 
-## 📸 Preview
 
-![ZIP Cracker Demo](screenshot.png) <!-- Add a screenshot later -->
 
 ## 🚀 Installation
 
 ```bash
 git clone https://github.com/yourusername/zip_cracker.git
 cd zip_cracker
-pip install colorama
+
 python zip_cracker.py
