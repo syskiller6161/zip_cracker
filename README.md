@@ -13,7 +13,7 @@ I am not responsible for any misuse.
 
 🚀 Installation
 ```bash
-git clone https://github.com/yourusername/zip_cracker.git
+git clone https://github.com/syskiller6161/zip_cracker.git
 cd zip_cracker
 pip install colorama
 python zip_cracker.py
