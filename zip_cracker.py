@@ -31,8 +31,7 @@ for password in wordlists:
         zf.extractall()
         if password:
             print(Fore.GREEN + "password found: ",password)
-            
-        
+            break
         else:
             (Fore.RED + "wrong password: ",password)
    except Exception as e :
