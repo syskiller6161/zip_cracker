@@ -7,7 +7,6 @@ I am not responsible for any misuse.
 ✨ Features
 - Supports custom wordlists (dictionary attack)
 - Brute-force mode (for short passwords)
-- Beautiful colored output with Colorama
 - Progress indication
 - Simple and easy to use
 
