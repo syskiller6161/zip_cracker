@@ -6,8 +6,6 @@ A lightweight, fast, and colorful Python tool to crack password-protected ZIP fi
 
 ## ✨ Features
 
-- **Fast ZIP cracking** using `zipfile` module
-- Beautiful colored terminal output with **Colorama**
 - Supports custom wordlists (dictionary attack)
 - Brute-force mode (for short passwords)
 - Progress indication
@@ -20,5 +18,5 @@ A lightweight, fast, and colorful Python tool to crack password-protected ZIP fi
 ```bash
 git clone https://github.com/yourusername/zip_cracker.git
 cd zip_cracker
-
+python setup.py
 python zip_cracker.py
